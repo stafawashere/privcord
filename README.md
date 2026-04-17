@@ -1,4 +1,4 @@
-# CHT — Small-Scale Chat
+# Privcord
 
 A minimal real-time chat app: username-only auth, DMs, and group chats. No friend system — all users are visible to each other.
 
